@@ -1,3 +1,4 @@
+
 EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 AIM:
@@ -21,5 +22,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[PE_EXp 2_K lokesh achari.docx](https://github.com/user-attachments/files/28041333/PE_EXp.2_K.lokesh.achari.docx)
 
 RESULT:
